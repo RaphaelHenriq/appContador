@@ -1,6 +1,6 @@
 # app_contador
 
-A new Flutter project.
+Firsts project in Flutter.
 
 ## Getting Started
 
